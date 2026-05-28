@@ -1,0 +1,6 @@
+{
+  "name": "IPL Player Analytics Dashboard",
+  "description": "A comprehensive, high-fidelity analytical dashboard for IPL cricket player performance, featuring comparisons, season-by-season statistics, interactive charts, and AI-powered performance insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
